@@ -1,3 +1,4 @@
 rootProject.name='FirstModule'
 include ':app'
 include ':logutil'
+include ':errorutil'
